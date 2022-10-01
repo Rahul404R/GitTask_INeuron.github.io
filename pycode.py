@@ -1,4 +1,6 @@
 print("Hello world!")
 print("Welcome to Git task")
-PRINT("Collab1: Update from collaborator")
+print("Collab1: Update from collaborator")
 print("Collab2: Update from Collaborator2")
+print("-----------------------------")
+print("Sum of Two number is 100")
