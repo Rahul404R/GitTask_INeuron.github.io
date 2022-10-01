@@ -1,2 +1,4 @@
 print("Hello world!")
-pritn("Welcome to Git task)
+print("Welcome to Git task")
+
+ 
