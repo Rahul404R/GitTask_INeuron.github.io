@@ -1,0 +1,5 @@
+To create a new repository in GitHub.
+It should have a proper source structure.
+Should contain proper readme file.
+Include 2 collabortor.
+Host the created repository under Git Pages,
